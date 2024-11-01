@@ -82,15 +82,16 @@ body {
 #spooky #body #mouth {
   background: #252c49;
   margin: 25px auto 0;
-  width: 60px;
+  width: 30px;
   height: 30px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
 }
 
 #spooky #body #mouth:before {
   content: " ";
-  display: block;
   background: #fff;
   margin-left: 20px;
   width: 10px;
